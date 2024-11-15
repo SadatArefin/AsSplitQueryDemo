@@ -1,1 +1,2 @@
-# AsSplitQueryDemo
+# AsSplitQuery Demo
+This repository aims to find out whether `AsSplitQuery` in Entity Framework Core 8.0 improves the performance of the queries or not. Specifically when to use `AsSplitQuery` and when not to use it.
